@@ -4,7 +4,7 @@
 
 Клонирование репозитория:
 
-**git clone https://github.com/artificial00/----------1.git**
+**git clone https://github.com/artificial00/Shop.git**
 
 **cd my-shop**
 
